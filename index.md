@@ -1,6 +1,8 @@
 ## Welcome to Pei's homepage.
 
-I will upload useful files here.
+Hi, guys. I'm learning how build my own website using Github Pages. 
+
+### **It's awesome！**
 
 You can use the [editor on GitHub](https://github.com/PeiZhao-tech/PeiZhao-tech.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
