@@ -1,3 +1,3 @@
 # PeiZhao-tech.github.io
-## Save some usful files and links.
-## Record my experience of life.
+## Training how to design my website
+## The website should include my profile, my learning and my future.
